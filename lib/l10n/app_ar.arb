@@ -1,0 +1,14 @@
+{
+    "app_name":"تطبيق تتبع المهام",
+    "createdAt":"أنشئت في",
+    "add_new_task" : "إضافة مهمة جديدة",
+    "update_task" : "مهمة التحديث",
+    "add_your_new_task" : "أضف مهمتك الجديدة",
+    "settings" : "الإعدادات",
+    "change_task_color" : "تغيير لون المهمة",
+    "change_app_language" : "تغيير لغة التطبيق",
+    "change_app_theme" : "تغيير سمة التطبيق",
+    "pick_a_color" : "اختر لونا",
+    "got_it" : "فهمتها"
+
+}

@@ -1,0 +1,13 @@
+{
+    "app_name":"任务跟踪应用",
+    "createdAt":"创建于",
+    "add_new_task" : "添加你的新任务",
+    "update_task" : "更新任务",
+    "add_your_new_task" : "添加你的新任务",
+    "settings" : "设置",
+    "change_task_color" : "更改任务颜色",
+    "change_app_language" : "更改应用程序语言",
+    "change_app_theme" : "更改应用主题",
+    "pick_a_color" : "选择颜色",
+    "got_it" : "知道了"
+}

@@ -1,0 +1,13 @@
+{
+    "app_name" : "टास्क ट्रैकिंग ऐप",
+    "createdAt" : "पर बनाया गया",
+    "add_new_task" : "नया कार्य जोड़ें",
+    "update_task" : "अद्यतन कार्य",
+    "add_your_new_task" : "अपना नया कार्य जोड़ें",
+    "settings" : "समायोजन",
+    "change_task_color" : "कार्य रंग बदलें",
+    "change_app_language" : "ऐप भाषा बदलें",
+    "change_app_theme" : "ऐप थीम बदलें",
+    "pick_a_color" : "एक रंग चुनें!",
+    "got_it" : "हां"
+}

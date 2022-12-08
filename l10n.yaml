@@ -1,0 +1,3 @@
+arb-dir: lib/l10n #directory name
+template-arb-file: app_en.arb #temeplate for all language file
+output-localization-file: app_localization.dart #auto generated file

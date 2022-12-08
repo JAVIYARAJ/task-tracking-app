@@ -1,0 +1,13 @@
+{
+    "app_name" : "Task Tracking App",
+    "createdAt" : "createdAt",
+    "add_new_task" : "Add new task",
+    "update_task" : "update_task",
+    "add_your_new_task" : "Add Your new Task",
+    "settings" : "Settings",
+    "change_task_color" : "Change Task Color",
+    "change_app_language" : "Change App Language",
+    "change_app_theme" : "Change App Theme",
+    "pick_a_color" : "Pick a Color!",
+    "got_it" : "Got It"
+}

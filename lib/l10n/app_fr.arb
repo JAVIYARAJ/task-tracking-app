@@ -1,0 +1,14 @@
+{
+    "app_name" : "application de suivi des tâches",
+    "createdAt" : "créé à",
+    "add_new_task" : "ajoutez votre nouvelle tâche",
+    "update_task" : "tâche de mise à jour",
+    "add_your_new_task" : "ajoutez votre nouvelle tâche",
+    "settings" : "réglages",
+    "change_task_color" : "Changer la couleur de la tâche",
+    "change_app_language" : "Changer la langue de l'application",
+    "change_app_theme" : "Changer le thème de l'application",
+    "pick_a_color" : "choisis une couleur",
+    "got_it" : "J'ai compris"
+
+}
