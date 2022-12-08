@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
-import 'package:task_tracker/task_page.dart';
-import 'package:task_tracker/theme/app_theme.dart';
+import 'package:task_tracker/pages/task_page.dart';
+import 'package:task_tracker/StateManagement/state_management.dart';
 import 'l10n/l10n.dart';
 import 'package:flutter_gen/gen_l10n/app_localization.dart';
 

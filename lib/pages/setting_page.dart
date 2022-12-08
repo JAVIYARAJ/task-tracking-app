@@ -2,8 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter_colorpicker/flutter_colorpicker.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
-import 'package:task_tracker/theme/app_theme.dart';
+import 'package:task_tracker/StateManagement/state_management.dart';
 import 'package:flutter_gen/gen_l10n/app_localization.dart';
+
+import '../AppTheme/app_theme.dart';
 
 
 class SettingPage extends StatefulWidget {

@@ -5,9 +5,11 @@ import 'package:provider/provider.dart';
 import 'package:staggered_grid_view_flutter/widgets/staggered_grid_view.dart';
 import 'package:staggered_grid_view_flutter/widgets/staggered_tile.dart';
 import 'package:task_tracker/DbHelper/database_helper.dart';
-import 'package:task_tracker/setting_page.dart';
-import 'package:task_tracker/theme/app_theme.dart';
+import 'package:task_tracker/pages/setting_page.dart';
+import 'package:task_tracker/StateManagement/state_management.dart';
 import 'package:translator/translator.dart' as text;
+
+import '../AppTheme/app_theme.dart';
 
 class TaskPage extends StatefulWidget {
   const TaskPage({Key? key}) : super(key: key);
