@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "112334061112",
+    "project_id": "task-tracking-181b4",
+    "storage_bucket": "task-tracking-181b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112334061112:android:008b352a5c033b5868f0cd",
+        "android_client_info": {
+          "package_name": "com.example.task_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112334061112-kpdnkqu9s5hnu99ukna36818b118hfp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhQ9exgm-4MOSMvpnRxt4xID7DQ3Ujnzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112334061112-kpdnkqu9s5hnu99ukna36818b118hfp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

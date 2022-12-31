@@ -9,12 +9,12 @@ import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 import 'package:task_tracker/main.dart';
-import 'package:task_tracker/pages/task_page.dart';
+import 'package:task_tracker/pages/task_dashboard.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
     // Build our app and trigger a frame.
-    await tester.pumpWidget(const TaskPage());
+    await tester.pumpWidget(const TaskAppDashboard());
 
     // Verify that our counter starts at 0.
     expect(find.text('0'), findsOneWidget);

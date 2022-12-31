@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 
-class ThemeNotifier extends ChangeNotifier {
+class TaskAppDataNotifier extends ChangeNotifier {
 
   SharedPreferences? sharedPreferences;
   bool? _darkTheme;
@@ -16,7 +16,7 @@ class ThemeNotifier extends ChangeNotifier {
   final String _taskFilterTagKey="taskFilterTag";
   final String _appLanguageKey="appLanguage";
 
-  ThemeNotifier() {
+  TaskAppDataNotifier() {
     _darkTheme = false;
     loadDataFromSharedPref();
   }
